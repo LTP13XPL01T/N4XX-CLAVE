@@ -46,7 +46,7 @@ Built with extensibility and customization in mind, Clave App serves as your per
 1.  **Fork & Clone Repository**
     Begin by forking this repository to your GitHub account, then clone it locally:
     ```bash
-    git clone https://github.com/1dev-hridoy/Clave-App.git
+    git clone https://github.com/LTP13XPL01T/N4XX-CLAVE
     cd Clave-App
     ```
 
@@ -181,15 +181,3 @@ See [CHANGELOG.md](CHANGELOG.md) for details on releases and changes.
 If Clave App has benefited your workflow or inspired your projects, please consider showing your support:
 
 *   ⭐ Star this repository on GitHub
-*   🐦 Follow the maintainer on Twitter [@1dev_hridoy](https://twitter.com/1dev_hridoy)
-*   💬 Share your experience with others in the developer community
-
-## ![](https://cdn-icons-png.flaticon.com/32/3135/3135748.png) License & Legal
-
-This project is distributed under the permissive [MIT License](LICENSE), allowing for commercial use, modification, distribution, and patent use. See the [LICENSE](LICENSE) file for complete terms.
-
----
-
-<div align="center">
-  <sub>Built with ❤️ by <a href="https://github.com/1dev-hridoy">Hridoy</a> and <a href="https://github.com/1dev-hridoy/Clave-App/graphs/contributors">contributors</a>.</sub>
-</div>
